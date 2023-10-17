@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E71B5B29-4963-DCE4-D09E-366170565559}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DialogueManager.cs">
+    <Files>
+      <File FileName="Assets/Player.cs" Line="7" Column="27" />
+      <File FileName="Assets/DialogueManager.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Scream Jam" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="DialogueManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f6ec1334-f2a0-417b-9161-6ad6e1e7c704" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
